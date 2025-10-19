@@ -1,4 +1,4 @@
-<?php
+<?phpa
 
   $frase = "testando o case de uma palavra <br>";
   $frase2 = "Testando o case de uma palavra <br>";
